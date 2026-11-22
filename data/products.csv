@@ -1,0 +1,31 @@
+product_id,product_name,category,price
+P001,Wireless Mouse,Electronics,399
+P002,Keyboard,Electronics,1999
+P003,Headphones,Electronics,1599
+P004,Webcam,Electronics,999
+P005,Power Bank,Electronics,999
+P006,USB Hub,Electronics,2499
+P007,Desk Lamp,Home,399
+P008,Water Bottle,Home,1599
+P009,Storage Box,Home,599
+P010,Coffee Mug,Home,399
+P011,Bedsheet,Home,1299
+P012,Cushion,Home,2999
+P013,T-Shirt,Fashion,1999
+P014,Jeans,Fashion,1999
+P015,Sneakers,Fashion,1999
+P016,Backpack,Fashion,1999
+P017,Hoodie,Fashion,1299
+P018,Cap,Fashion,499
+P019,Face Wash,Beauty,2499
+P020,Moisturizer,Beauty,999
+P021,Shampoo,Beauty,1299
+P022,Sunscreen,Beauty,799
+P023,Lip Balm,Beauty,499
+P024,Serum,Beauty,2999
+P025,Python Book,Books,1999
+P026,SQL Book,Books,1599
+P027,Data Analytics Book,Books,999
+P028,AI Book,Books,2499
+P029,Novel,Books,1299
+P030,Product Management Book,Books,999
