@@ -1,14 +1,14 @@
-# Sales Performance & Business Intelligence
+# E-Commerce Product & Customer Retention Analytics
 
-Medium-level Data Analyst / BI portfolio project.
+Medium-level Product Analyst portfolio project.
 
-## Questions
-- What are total sales and profit?
-- Which regions perform best?
-- Which products generate the most profit?
-- Which products have weak margins?
-- Which salespeople lead revenue?
-- Where should management investigate?
+## Business questions
+- How much revenue is generated?
+- Which categories/products perform best?
+- Where do users drop in the product funnel?
+- What is the repeat-purchase rate?
+- Which high-traffic products have weak conversion?
+- What should the product team investigate?
 
 ## Tools
 Python, Pandas, SQL, Streamlit.
@@ -19,4 +19,4 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-The included data is synthetic portfolio data and needs no API.
+The included CSVs are synthetic portfolio data. The dashboard reads them locally and needs no API.
